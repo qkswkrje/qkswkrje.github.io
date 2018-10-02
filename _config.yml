@@ -1,19 +1,19 @@
 # Site settings
-title: 박지은의 블로그 Maeng-dev's Blog
-url: "http://yunho0130.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+title: 박지은의 블로그 JIEUN's Blog
+url: "http://qkswkrje.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 timezone: Asia/Seoul
 description: >
   description
 
 # Your information
-email: yunho0130@gmail.com
+email: 97pje@naver.com
 author: 박지은
 # avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 avatar: "//github.com/yunho0130/yunho0130.github.io/blob/master/_jpg/yunhomaeng.png"
 profile: <br> 
 #twitter_username: twitter_username
-github_username:  yunho0130
+github_username:  qkswkrje
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
