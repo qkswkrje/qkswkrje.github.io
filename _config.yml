@@ -1,5 +1,5 @@
 # Site settings
-title: 박지은의 블로그 JIEUN's Blog
+title: JIEUN's Blog
 url: "http://qkswkrje.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 timezone: Asia/Seoul
