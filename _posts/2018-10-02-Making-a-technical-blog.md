@@ -2,7 +2,7 @@
 layout: post
 title:  "블로그 만들기"
 date:   2018-10-02 16:09:13
-categories: Data_science
+categories: Blog
 permalink: /archivers/python_lecture_02
 ---
 
